@@ -1,0 +1,38 @@
+[
+	{
+		"author" : "Ankama updated by Dictature",
+		"name" : "whiteSnow",
+		"keyWords" : "theme, whiteSnow",
+		"version" : "2.0.0",
+		"dofusVersion" : "2.69",
+		"description" : "Joyeux Nowel !",
+		"url" : "https://github.com/DictatureDofus/dofus_themes/raw/main/whiteSnow.zip",
+		"previewUrl" : "https://github.com/DictatureDofus/dofus_themes/blob/main/whiteSnow.jpg",
+		"creationDate" : "21/12/2017",
+		"modificationDate" : "01/11/2023"
+	},
+	{
+		"author" : "Aspette updated by Dictature",
+		"name" : "oldUI (beige) Remake",
+		"keyWords" : "theme, oldUI, Remake",
+		"version" : "2.0.0",
+		"dofusVersion" : "2.69",
+		"description" : "L'ancienne interface utilisateur revisitée, en beige !",
+		"url" : "https://github.com/DictatureDofus/dofus_themes/raw/main/oldUI%20(beige)%20Remake.zip",
+		"previewUrl" : "https://github.com/DictatureDofus/dofus_themes/blob/main/oldUI%20beige.jpg",
+		"creationDate" : "12/05/2019",
+		"modificationDate" : "04/11/2023"
+	},
+	{
+		"author" : "Salakiss updated by Dictature",
+		"name" : "Argentic",
+		"keyWords" : "theme, Argentic",
+		"version" : "2.0.0",
+		"dofusVersion" : "2.69",
+		"description" : "Nuances de gris, basé sur le thème principal, darkStone.",
+		"url" : "https://github.com/DictatureDofus/dofus_themes/raw/main/Argentic.zip",
+		"previewUrl" : "https://github.com/DictatureDofus/dofus_themes/blob/main/Argentic.jpg",
+		"creationDate" : "02/09/2016",
+		"modificationDate" : "01/11/2023"
+	}
+]
