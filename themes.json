@@ -35,4 +35,16 @@
 		"creationDate" : "02/09/2016",
 		"modificationDate" : "04/05/2024"
 	}
+	{
+		"author" : "Tastywaffle",
+		"name" : "Darkfus",
+		"keyWords" : "theme, Darkfus",
+		"version" : "2.0.0",
+		"dofusVersion" : "2.71",
+		"description" : "Un thème sombre et bleu. Theme updated by Dictature.",
+		"url" : "https://github.com/DictatureDofus/dofus_themes/raw/main/Darkfus.zip",
+		"previewUrl" : "https://raw.githubusercontent.com/DictatureDofus/dofus_themes/main/Darkfus.jpg",
+		"creationDate" : "02/09/2016",
+		"modificationDate" : "04/05/2024"
+	}
 ]
