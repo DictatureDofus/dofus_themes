@@ -28,11 +28,11 @@
 		"name" : "Argentic",
 		"keyWords" : "theme, Argentic",
 		"version" : "2.0.0",
-		"dofusVersion" : "2.69",
+		"dofusVersion" : "2.71",
 		"description" : "Nuances de gris, basé sur le thème principal, darkStone. Theme updated by Dictature.",
 		"url" : "https://github.com/DictatureDofus/dofus_themes/raw/main/Argentic.zip",
 		"previewUrl" : "https://raw.githubusercontent.com/DictatureDofus/dofus_themes/main/Argentic.jpg",
 		"creationDate" : "02/09/2016",
-		"modificationDate" : "01/11/2023"
+		"modificationDate" : "04/05/2024"
 	}
 ]
